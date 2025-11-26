@@ -17,7 +17,7 @@ A-записи этих поддоменов должны содержать IP 
 ### 3. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/ampetelin/3x-ui-aio.git && cd 3x-ui-aio
+git clone https://github.com/DeduskaPikhto/3x-ui-aio.git && cd 3x-ui-aio
 ```
 
 ### 4. Отредактируйте файл `angie.conf`
@@ -62,3 +62,6 @@ docker compose up -d
 - **SNI:** cloud.example.com
 
 ![inbound](https://github.com/user-attachments/assets/dd85f07f-e627-4d88-b5b8-e918419e67e2)
+
+Thanks
+Based on 3x-ui-aio by ampetelin.
