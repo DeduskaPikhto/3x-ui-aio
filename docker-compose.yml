@@ -36,7 +36,7 @@ services:
     networks:
       - 3x-ui-aio-network
 
-    warp-socks:
+  warp-socks:
     image: monius/docker-warp-socks:latest
     container_name: warp-socks
     ports:
