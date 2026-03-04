@@ -63,5 +63,5 @@ docker compose up -d
 
 ![inbound](https://github.com/user-attachments/assets/dd85f07f-e627-4d88-b5b8-e918419e67e2)
 
-Thanks
-Based on 3x-ui-aio by ampetelin.
+#### Thanks:
+Based on 3x-ui-aio by @ampetelin.
